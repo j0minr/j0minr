@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @j0minr
 - 👀 I’m interested in anime art political government and you
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...ig thisminr
-- 😄 Pronouns🧯
+- 🌱 I’m currently learning java react c# python 
+- 💞️ I’m looking to collaborate on you
+- 📫 How to reach me ig thisminr
+- 😄 Pronouns🧯 คนสวยยย
 - ⚡ Fun fact: i am want to sleep
 
 <!---
